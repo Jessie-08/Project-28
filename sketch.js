@@ -15,7 +15,7 @@ var launcherObject;
 launchForce = 100;
 
 function preload(){
-	boy=loadImage("boy.png");
+	boy=loadImage("images/boy.png");
   }
 
 function setup() {
